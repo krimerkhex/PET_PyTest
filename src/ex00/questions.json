@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "responses": ["Paris", "Moscow", "Mamadysh"]
+    },
+    {
+      "question": "Who painted the Mona Lisa? ",
+      "responses": ["Leonardo Dawynchi", "Leonardo Ninja-Turtle", "Leonardo Dekaprio"]
+    },
+    {
+      "question": "What is the chemical symbol for gold? ",
+      "responses": ["Au", "Fe", "O"]
+    },
+    {
+      "question": "In which year did World War II end? ",
+      "responses": ["1945", "1939", "1914"]
+    },
+    {
+      "question": "What is the square root of 144? ",
+      "responses": ["12", "11", "13"]
+    },
+    {
+      "question": "Who wrote the novel \"To Kill a Mockingbird\"? ",
+      "responses": ["Harper Li", "Me", "You"]
+    },
+    {
+      "question": "What is the largest planet in our solar system? ",
+      "responses": ["Saturn", "Earth", "You mom"]
+    },
+    {
+      "question": "How many continents are there in the world? ",
+      "responses": ["5", "4", "6"]
+    },
+    {
+      "question": " How many planets are there in our solar system?  ",
+      "responses": ["11", "10", "We are living in simulation"]
+    },
+    {
+      "question": "What is the formula for water?",
+      "responses": ["H2O", "C2H6O", "H30"]
+    }
+  ]
+}

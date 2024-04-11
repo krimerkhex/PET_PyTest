@@ -1,0 +1,9 @@
+src
+===
+
+.. toctree::
+   :maxdepth: 4
+
+    ex00/ex00_test
+    ex01/ex01_test
+    tests/test_vk
